@@ -3,3 +3,9 @@
 
 # Ignore Gradle build output directory
 build
+
+/target/
+/.project
+/.classpath
+/.settings/
+.DS_Store
